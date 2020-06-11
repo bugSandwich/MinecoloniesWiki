@@ -27,7 +27,7 @@ There is also a system in place for the type of tools and swords the workers can
 | -------------- | ---------------------- | ------------------------ |
 | 0              | Wood  or Gold (+ 0 enchant)    | Mining level of Stone    |
 | 1              | Stone + 0 enchant (OR wood/gold + 1 enchant)  | Mining level of Iron     |
-| 2              | Iron + 0 enchant  (OR wood/gold + 2 enchanst OR stone + 1 enchant)  | Mining level of Diamond  |
+| 2              | Iron + 0 enchant  (OR wood/gold + 2 enchants OR stone + 1 enchant)  | Mining level of Diamond  |
 | 3              | Diamond + 0 enchant (OR wood/gold + 3 enchants OR stone + 2 enchants OR Iron + 1 enchant)  | Mining level of Obsidian |
 | 4              | All Tools + 0 enchant (OR wood/gold + 4 enchants OR Stone + 3 enchants OR Iron + 2 enchants OR diamond + 1 enchant)  | Mining level of Cobalt   |
 | 5              | All Tools + unlimited enchants  | Any mining level   |
